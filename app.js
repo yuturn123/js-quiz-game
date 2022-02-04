@@ -11,6 +11,11 @@ const quiz = [
       question: 'ファイナルファンタジーⅣの主人公の名前は？',
       answers: [ 'フリオニール', 'クラウド', 'ティーダ', 'セシル'],
       correct: 'セシル'
+    },
+    {
+      question: 'りんごの英語名は',
+      answers: [ 'shit', 'fruit', 'apple', 'grape'],
+      correct: 'apple'
     }
   ];
 
